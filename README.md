@@ -14,5 +14,7 @@ Junior Frontend Developer
 ## Contact
 
 📧 Email: shamilhazaraliev2007@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/shamil-hazaraliyev-10740433a/
+
 🌐 Portfolio: 
