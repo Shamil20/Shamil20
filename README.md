@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shamil 👋
 
-<!--
-**Shamil20/Shamil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- Responsive Design
+- React (Learning)
+
+## Contact
+
+📧 Email: shamilhazaraliev2007@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shamil-hazaraliyev-10740433a/
+🌐 Portfolio: 
